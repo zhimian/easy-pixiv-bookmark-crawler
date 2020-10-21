@@ -1,6 +1,6 @@
 # easy-pixiv-bookmark-crawler
 
-multithread to crawl user info who has bookmarked the specific pixiv artwork
+**multithread to crawl user info who has bookmarked the specific pixiv artwork**
 
 
 output format like this  
